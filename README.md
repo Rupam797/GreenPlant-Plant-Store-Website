@@ -23,8 +23,8 @@ A small static website showcasing plant-related content and assets.
 
 Below are example screenshots from the live site. To include them in this README, place the image files in `assets/screenshots/` with the filenames shown and they will render below.
 
-- ![Hero section](<img width="1919" height="874" alt="Screenshot 2026-02-14 120325" src="https://github.com/user-attachments/assets/98989463-6a01-4fb0-8c92-d5eacccbe558" />
-)
+- ![Hero section] <img width="1919" height="874" alt="Screenshot 2026-02-14 120325" src="https://github.com/user-attachments/assets/98989463-6a01-4fb0-8c92-d5eacccbe558" />
+
 - *Hero / landing section.*
 
 - ![About section](<img width="1919" height="863" alt="Screenshot 2026-02-14 120356" src="https://github.com/user-attachments/assets/b0ca7198-5095-4e14-87c1-60985e43ea2e" />
