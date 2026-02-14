@@ -23,16 +23,20 @@ A small static website showcasing plant-related content and assets.
 
 Below are example screenshots from the live site. To include them in this README, place the image files in `assets/screenshots/` with the filenames shown and they will render below.
 
-- ![Hero section](assets/screenshots/hero.png)
+- ![Hero section](<img width="1919" height="874" alt="Screenshot 2026-02-14 120325" src="https://github.com/user-attachments/assets/98989463-6a01-4fb0-8c92-d5eacccbe558" />
+)
 - *Hero / landing section.*
 
-- ![About section](assets/screenshots/about.png)
+- ![About section](<img width="1919" height="863" alt="Screenshot 2026-02-14 120356" src="https://github.com/user-attachments/assets/b0ca7198-5095-4e14-87c1-60985e43ea2e" />
+)
 - *About / features section.*
 
-- ![Products grid](assets/screenshots/products.png)
+- ![Products grid](<img width="1919" height="882" alt="Screenshot 2026-02-14 120429" src="https://github.com/user-attachments/assets/f574ade3-63e9-4368-b167-e7ad474732e0" />
+)
 - *Products listing.*
 
-- ![Contact / footer](assets/screenshots/contact.png)
+- ![Contact / footer](<img width="1910" height="868" alt="Screenshot 2026-02-14 120505" src="https://github.com/user-attachments/assets/0c38a3f0-d7c9-45dc-ae59-9c6efda26196" />
+)
 - *Contact form and footer.*
 
 If you'd like, I can import the attached images into `assets/screenshots/` and update the README to display them directly. Reply `yes` to proceed.
