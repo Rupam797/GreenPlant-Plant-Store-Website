@@ -17,8 +17,8 @@ A small static website showcasing plant-related content and assets.
 
 ## 🚀 Live Demo
 
-👉 **View the live site:**  
-https://mygreenplantstore.netlify.app/
+🔗 **Live Website:**  
+[https://mygreenplantstore.netlify.app](https://mygreenplantstore.netlify.app)
 
 ## 🖼 Screenshots
 
